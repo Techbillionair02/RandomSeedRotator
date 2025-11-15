@@ -1,5 +1,5 @@
 // MIT License
-// Copyright (c) 2025 AceRust
+// Copyright (c) 2025 Regime
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
 // in the Software without restriction, including without limitation the rights
@@ -23,7 +23,7 @@ using Oxide.Core.Plugins;
 
 namespace Oxide.Plugins
 {
-    [Info("Random Seed Rotator", "AceRust", "1.0.0")]
+    [Info("Random Seed Rotator", "Regime", "1.0.0")]
     [Description("Automatically rotates or randomizes Rust map seeds on wipe or restart, keeping the server world fresh.")]
     public class RandomSeedRotator : CovalencePlugin
     {
